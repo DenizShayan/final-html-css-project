@@ -8,6 +8,7 @@
   outline: none;
 }
 
+
 .cards {
   margin-top: 20px;
 }
@@ -37,6 +38,12 @@
   .cards {
     grid-template-columns: 1fr;
   }
+}
+
+
+.navbar{
+  background-color: #3e2b95 !important;
+  
 }
 
 footer {
